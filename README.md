@@ -1,0 +1,1 @@
+# 110ie_teorija_OOP_pamatprincipi
