@@ -24,8 +24,8 @@ Objektorientētā programmēšanā iespējams **savienot datus un darbības, kas
 4. Kā šīs lietas savstarpēji saistītas?
 
 >[!Saīsināti] 
-**OOM - izdomājam, kādi objekti vajadzīgi; 
-OOP - tos uzrakstām kodā.**
+>OOM - izdomājam, kādi objekti vajadzīgi; 
+>OOP - tos uzrakstām kodā.**
 
 > **Padoms modelēšanai:** lietvārdi uzdevuma aprakstā bieži kļūst par **klasēm vai īpašībām**, bet darbības vārdi - par **metodēm**.
 
